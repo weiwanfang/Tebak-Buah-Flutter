@@ -4,7 +4,9 @@ A new Flutter project for [Tebak Buah Game](https://github.com/titiarimba/Tebak-
 
 ### Preview
 
-![Preview](preview.png)
+|Greeting|Game|Finish|
+|:---:|:---:|:---:|
+|![splash](preview-1.png)|![Home](preview-2.png)|![search](preview-3.png)|
 
 ### Related to
 
