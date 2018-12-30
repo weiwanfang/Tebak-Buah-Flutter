@@ -1,8 +1,11 @@
-# tebak_buah
+# Tebak Buah Game
 
-A new Flutter project.
+A new Flutter project for [Tebak Buah Game](https://github.com/titiarimba/Tebak-Buah-Game) from [@titiarimba](https://github.com/titiarimba)
 
-## Getting Started
+### Preview
 
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
+![Preview](preview.png)
+
+### Related to
+
+[@titiarimba](https://github.com/titiarimba/Tebak-Buah-Game)
